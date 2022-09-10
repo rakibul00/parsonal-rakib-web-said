@@ -1,0 +1,159 @@
+body{
+   
+
+}
+.img-writh {
+    width: 40px;
+}
+.all-buttom{
+    
+    border-radius: 7px solid;
+    background-image:linear-gradient(45deg,  lightsalmon, tomato) ;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700px;
+    border: none;
+}
+.eori{
+    text-decoration: none;
+}
+.orange-bg{
+    background-color: #fcebe8;
+}
+.row{
+    padding: 10px 20px;
+    color: ;
+}
+.row h3{
+    color: gray;
+    font-size: 50px;
+}
+.row p{
+    color: gray;
+    font-size: 30px;
+}
+.hafe-writh{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+   
+
+}
+.hafe-writh img{
+    width: 400px;
+}
+.hafe-writh h5 {
+    font-size: 40px;
+   
+}
+.name-cl{
+    color: orange;
+    font-size: 60px;
+}
+.card img {
+    width: 150px;
+  
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 7px gray;
+}
+.card h5 {
+    font-size: 30px;
+}
+#Services{
+    margin: 20px;
+    padding: 10px 20px;
+
+}
+#Services h1{
+    color: orange;
+    font-size: 50px;
+}
+#about h1{
+    color: orange;
+    font-size: 50px;
+}
+#about{
+    margin: 20px;
+    padding: 10px 20px;
+
+}
+.o-coler{
+    font-size: 120px;
+    color: black;
+}
+.expricenc-aria{
+
+    
+   background-repeat: no-repeat;
+   background-position: left;
+}
+#full-stack{
+   border-left: 7px solid;
+   border-image: linear-gradient( 180deg,lightsalmon, tomato);
+   border-image-slice: 1;
+   color: gray;
+
+}
+#baby-web{
+   border-left: 7px solid;
+   border-image: linear-gradient( 180deg, blue, cyan);
+   border-image-slice: 1;
+   color: gray;
+
+}
+.expricenc-aria{
+    margin: 20px;
+    padding: 10px 20px;
+   
+    
+
+}
+.expricenc-aria h5{
+    color: orange;
+    font-size: 50px;
+
+}
+.babe-coler{
+    color: #080808;
+    font-size: 40px;
+
+}
+.wp-batton img{
+    width: 70px;
+    height: 70px;
+
+}
+.wp-batton{
+    position: fixed ;
+    right: 10px;
+    bottom: 10px;
+}
+.singel-expricenc{
+    box-shadow: 10px 10px 9px gray;
+}
+.container {
+    background-color: black;
+    color: white;
+}
+.hafe-writh-2{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 6%;
+    background-color: rgb(37, 37, 37);
+    color: white;
+    
+ 
+}
+footer p{
+    text-align: center;
+    position: fixed;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
